@@ -1,0 +1,15 @@
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\ApplicationIcon.png
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\Background.png
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\tweet-feed.dll
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\tweet-feed.pdb
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\AppManifest.xaml
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\Bin\Release\tweet_feed.xap
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\App.g.i.cs
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\about.g.i.cs
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\MainPage.g.i.cs
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\tweet-feed.g.resources
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\tweet-feed.dll
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\tweet-feed.pdb
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\XapCacheFile.xml
+C:\Users\Susheel\documents\visual studio 2010\Projects\tweet-feed\obj\Release\addid.g.i.cs
