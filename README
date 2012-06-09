@@ -1,0 +1,14 @@
+Using Tweet Feed , you can enter any twitter user's twitter handle and see his tweets along with other information such as no. of tweets , no. of followers , his URL etc.,
+
+To use -- 
+The person has to have Visual Studio 10.0 Servive Pack1
+Has to have Windows SDK installed
+Has to have Windows Phone emulator
+Just import the files and magic!!!
+Happy tweeting
+
+For our application ,we use the twitter API to get the tweets of the Username whichever is entered in the textbox . 
+
+
+We have other features as well which basically lets the user see how many retweets that particular tweet has got , the date and time associated with the creation of the tweet .
+Further , clicking on the tweet will open a MessageBox which will show the description of the twitter username , number of followers and number of tweets till date .
