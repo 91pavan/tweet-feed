@@ -9,6 +9,9 @@ Happy tweeting
 
 For our application ,we use the twitter API to get the tweets of the Username whichever is entered in the textbox . 
 
+For our application ,we use the twitter API to get the tweets of the Username whichever is entered in the textbox . We use DownloadStringCompleted class which Occurs when an asynchronous resource-download operation completes and DownloadStringAsync class which basically downloads the resource specified as a String or a Uri.
+These methods do not block the calling thread. 
+When we get the response back from twitter , we parse the xml by its tags and display it to the user . We have other features as well which basically lets the user see how many retweets that particular tweet has got , the date and time associated with the creation of the tweet 
 
 We have other features as well which basically lets the user see how many retweets that particular tweet has got , the date and time associated with the creation of the tweet .
 Further , clicking on the tweet will open a MessageBox which will show the description of the twitter username , number of followers and number of tweets till date .
